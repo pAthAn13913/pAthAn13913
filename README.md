@@ -25,8 +25,6 @@ Skills: HTML / C / JAVA
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/pAthAn13913/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/pAthAn13913)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=pAthAn13913)  
 
 
