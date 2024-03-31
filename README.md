@@ -7,10 +7,10 @@ I am a student of United International University (UIU) department of Computer S
 Skills: HTML / C / JAVA
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning C++ 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Programming 
-- 😄 Pronouns: pAthAn 
+- 🌱 I’m currently learning C++ and Js.
+- 👯 I’m looking to collaborate on GitHub.
+- 💬 Ask me about Programming.
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pAthAn13913)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/arafat-khan-pathan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/arafatkhan.pathan.3?mibextid=dGKdO6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/pathan__13913?igsh=a2gzN3N6bjYxa2Fn&utm_source=qr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@pAthAn__13913)  
