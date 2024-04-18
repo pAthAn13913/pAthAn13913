@@ -1,6 +1,6 @@
 # Hi there 👋, Arafat Khan Pathan
 ### I am a pragrammer
-![I am a pragrammer]({https://www.facebook.com/share/azUnjCpc](https://www.facebook.com/share/azUnjCpc9LYC6Ax4/?mibextid=WC7FNe))
+![I am a pragrammer]( https://www.facebook.com/share/azUnjCpc](https://www.facebook.com/share/azUnjCpc9LYC6Ax4/?mibextid=WC7FNe)](https://scontent.fdac142-1.fna.fbcdn.net/v/t39.30808-6/376015824_1031429237879670_308052559058033924_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGP9CzbYJAW_KyaAj4kMQ1CQY9XNh4FxGJBj1c2HgXEYkIexyRMv6-l07jeDtG2_eRBDGFOLisS14gITezguYJ-&_nc_ohc=KxlANqIRM2kAX80F__g&_nc_oc=AdibkxWSur2rR4ATAA-cAShdz3MqXWmjppBZ22o01Qcuz1hTceSD7hQesBjp6fnsCEo&_nc_ht=scontent.fdac142-1.fna&oh=00_AfA7vXIw-rv7kW1l2NJ9Aiudj6eXXkJp1JSQ9Y1ZB-uVTg&oe=660F0E72 )
 
 I am a student of United International University (UIU) department of Computer Science and Engineering. I love to learn new skills. 
 
