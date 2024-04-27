@@ -1,4 +1,4 @@
-# Hi there 👀, Arafat Khan Pathan
+# Hi 👋, I'm Arafat Khan Pathan
 ### I am a pragrammer
 ![I am a pragrammer](https://scontent.fdac142-1.fna.fbcdn.net/v/t39.30808-6/376015824_1031429237879670_308052559058033924_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGP9CzbYJAW_KyaAj4kMQ1CQY9XNh4FxGJBj1c2HgXEYkIexyRMv6-l07jeDtG2_eRBDGFOLisS14gITezguYJ-&_nc_ohc=T6mFl16t42kQ7kNvgG2ZlOl&_nc_oc=AdhWU-ykodQgU-wiCo4cYHyIKO1Fr-KLv0DHrASH5RSaP7_Ks0Uzm-YWb1cfSXrEM1U&_nc_ht=scontent.fdac142-1.fna&oh=00_AfA-L-tcTXuRzrm9RQuX_xtU-ta65QtTiiOkPsczlxpzHA&oe=6632A6F2)
 
