@@ -1,6 +1,6 @@
 # Hi 👋, I'm Arafat Khan Pathan
 ### I am a pragrammer
- <img src="images/profile22.jpg" alt="profile" /> <img src="images/profile1.jpg" alt="profile" />
+ <img src="images/profile22.jpg" alt="profile" /> 
  
 
 I am a student of United International University (UIU) department of Computer Science and Engineering. I love to learn new skills. 
